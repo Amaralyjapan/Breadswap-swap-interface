@@ -26,12 +26,12 @@
       "decimals": 18
     },
     {
-      "name": "LP3 Token",
-      "symbol": "LP3",
-      "address": "0xe70b7523f4bffa1f2e88d2ba709afd026030f412",
-      "chainId": 97,
+      "name": "breadswap",
+      "symbol": "BREAD",
+      "address": "0xc2E2E519347552aC1E22bE02fa53eF6Aaf3A93F5",
+      "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/ETH.png"
+      "logoURI": "/images/coins/bread.png"
     },
     {
       "name": "BUSD Token",
@@ -628,9 +628,9 @@
       "decimals": 18
     },
     {
-      "name": "AUTOv2",
-      "symbol": "AUTO",
-      "address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+      "name": "cheesemaker.farm",
+      "symbol": "CHS",
+      "address": "0xaDD8A06fd58761A5047426e160B2B88AD3B9D464",
       "chainId": 56,
       "decimals": 18
     },
@@ -703,13 +703,7 @@
       "address": "0xc3fed6eb39178a541d274e6fc748d48f0ca01cc3",
       "chainId": 56,
       "decimals": 8
-    },
-    {
-      "name": "anyMTLX",
-      "symbol": "anyMTLX",
-      "address": "0x5921dee8556c4593eefcfad3ca5e2f618606483b",
-      "chainId": 56,
-      "decimals": 18
+
     }
   ]
 }

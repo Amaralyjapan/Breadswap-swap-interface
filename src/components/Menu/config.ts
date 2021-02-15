@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://pancakeswap.finance/',
+    href: 'https://breadswap.finance/',
   },
   {
     label: 'Trade',
@@ -24,22 +24,22 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://pancakeswap.finance/farms',
+    href: 'https://breadswap.finance/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://pancakeswap.finance/syrup',
+    href: 'https://breadswap.finance/syrup',
   },
   {
     label: 'Lottery',
     icon: 'TicketIcon',
-    href: 'https://pancakeswap.finance/lottery',
+    href: 'https://breadswap.finance/lottery',
   },
   {
     label: 'NFT',
     icon: 'NftIcon',
-    href: 'https://pancakeswap.finance/nft',
+    href: 'https://breadswap.finance/nft',
   },
   {
     label: 'Teams & Profile',
@@ -47,11 +47,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Leaderboard',
-        href: 'https://pancakeswap.finance/teams',
+        href: 'https://breadswap.finance/teams',
       },
       {
         label: 'Your Profile',
-        href: 'https://pancakeswap.finance/profile',
+        href: 'https://breadswap.finance/profile',
       },
     ],
   },
@@ -61,26 +61,26 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Overview',
-        href: 'https://pancakeswap.info',
+        href: 'https://breadswap.info',
       },
       {
         label: 'Tokens',
-        href: 'https://pancakeswap.info/tokens',
+        href: 'https://breadswap.info/tokens',
       },
       {
         label: 'Pairs',
-        href: 'https://pancakeswap.info/pairs',
+        href: 'https://breadswap.info/pairs',
       },
       {
         label: 'Accounts',
-        href: 'https://pancakeswap.info/accounts',
+        href: 'https://breadswap.info/accounts',
       },
     ],
   },
   {
     label: 'IFO',
     icon: 'IfoIcon',
-    href: 'https://pancakeswap.finance/ifo',
+    href: 'https://breadswap.finance/ifo',
   },
   {
     label: 'More',
@@ -88,19 +88,19 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Voting',
-        href: 'https://voting.pancakeswap.finance',
+        href: 'https://voting.breadswap.finance',
       },
       {
         label: 'Github',
-        href: 'https://github.com/pancakeswap',
+        href: 'https://github.com/breadswap',
       },
       {
         label: 'Docs',
-        href: 'https://docs.pancakeswap.finance',
+        href: 'https://docs.breadswap.finance',
       },
       {
         label: 'Blog',
-        href: 'https://pancakeswap.medium.com',
+        href: 'https://breadswap.medium.com',
       },
     ],
   },
