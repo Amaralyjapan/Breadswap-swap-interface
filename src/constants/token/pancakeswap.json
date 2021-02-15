@@ -26,9 +26,9 @@
       "decimals": 18
     },
     {
-      "name": "breadswap",
+      "name": "BreadSwap Token",
       "symbol": "BREAD",
-      "address": "0xc2E2E519347552aC1E22bE02fa53eF6Aaf3A93F5",
+      "address": "0xaCCAF1910Fe2AF6c04FF3f40Cd6dC1A36DB76d4C",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "/images/coins/bread.png"
